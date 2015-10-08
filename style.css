@@ -1,0 +1,64 @@
+body {
+	font-size: 24px; 
+	line-height: 1.5;
+	margin-right: 50px;
+   	margin-left: 75px;
+}
+
+ul {
+	list-style-type: none;
+	font-family: courier;
+	font color: rgb(139,137,137);  
+	font-size: 14px;
+	line-height: 1.5;
+	margin-right: 50px;
+    margin-left: 300px; 
+}
+
+h1 {
+	font-family: helvetica;
+	font-size: 24px; 
+	font-weight: normal;
+	margin-right: 50px;
+    margin-left: 75px; 
+}
+
+h2	{
+	font-family: courier;
+	font-size: 14px; 
+	font color: rgb(139,137,137); 
+	font-weight: normal;
+    }
+
+p { 
+	font-size: 24px; 
+	margin-right: 50px;
+    margin-left: 75px;
+    padding-bottom: 1em; 
+    font-family: helvetica; 
+}
+
+    .float-r{}
+
+.fixedfooter {
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	padding:8px;
+	font-size: 14px;
+	font-family: courier;
+	font-color: gray;
+}
+
+.fa-paper-plane {
+	color:rgb(139,137,137);
+	 font-size: 2em; 
+}
+
+.SkyhookMono-bold-normal { 
+	font-family: SkyhookMono;
+	font-weight: bold;
+	font-style: normal;
+}
+	
